@@ -1,7 +1,7 @@
 # Welcome to SENA!
 ***
 ## our team
-- Gopichandh
+- [Gopichandh](/gopi/aboutme.md)
 - Phanindra
 - Venu
 - Vinay
